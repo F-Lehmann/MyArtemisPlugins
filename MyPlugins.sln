@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Artemis.Plugins.DataModelExpansions.Audio", "Artemis.Plugins.DataModelExpansions.Audio\Artemis.Plugins.DataModelExpansions.Audio.csproj", "{0A86127B-122F-48DF-85D5-D739AEBAF2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Artemis.Plugins.LayerBrushes.Spectrum", "Artemis.Plugins.LayerBrushes.Spectrum\Artemis.Plugins.LayerBrushes.Spectrum.csproj", "{C33CC9B9-6E39-4BA4-8D5F-DCA722EE5650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A86127B-122F-48DF-85D5-D739AEBAF2EF}.Debug|x64.ActiveCfg = Debug|x64
+		{0A86127B-122F-48DF-85D5-D739AEBAF2EF}.Debug|x64.Build.0 = Debug|x64
+		{0A86127B-122F-48DF-85D5-D739AEBAF2EF}.Release|x64.ActiveCfg = Release|x64
+		{0A86127B-122F-48DF-85D5-D739AEBAF2EF}.Release|x64.Build.0 = Release|x64
+		{C33CC9B9-6E39-4BA4-8D5F-DCA722EE5650}.Debug|x64.ActiveCfg = Debug|x64
+		{C33CC9B9-6E39-4BA4-8D5F-DCA722EE5650}.Debug|x64.Build.0 = Debug|x64
+		{C33CC9B9-6E39-4BA4-8D5F-DCA722EE5650}.Release|x64.ActiveCfg = Release|x64
+		{C33CC9B9-6E39-4BA4-8D5F-DCA722EE5650}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FC7F047-E4C4-4F72-9ED1-F910BFCF5177}
+	EndGlobalSection
+EndGlobal

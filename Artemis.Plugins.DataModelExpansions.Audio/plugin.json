@@ -1,0 +1,7 @@
+{
+  "Guid": "3b71500c-65ad-4df0-948a-e8eae57c1dc2",
+  "Name": "Audio",
+  "Description": "Provides data about played audio",
+  "Version": "1.0.0.0",
+  "Main": "Artemis.Plugins.DataModelExpansions.Audio.dll"
+}

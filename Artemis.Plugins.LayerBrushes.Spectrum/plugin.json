@@ -1,0 +1,7 @@
+{
+  "Guid": "245aa860-4224-4d1c-ab81-2d6b5593a9fa",
+  "Name": "Spectrum",
+  "Description": "This is my awesome plugin",
+  "Version": "1.0.0.0",
+  "Main": "Artemis.Plugins.LayerBrushes.Spectrum.dll"
+}
